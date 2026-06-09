@@ -1,4 +1,4 @@
-ABC laborotorio
+ABC laboratorio
 
 Grupo:
 - Maria Fernanda Gongora Mercado
